@@ -1,6 +1,5 @@
 # Python Basics
 
-This README provides a brief overview of essential Python concepts and operations.
 
 **Programmer: Shroog Albluwi**
 
